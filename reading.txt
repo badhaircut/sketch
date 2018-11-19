@@ -1,0 +1,11 @@
+http://babich.biz/basic-patterns-for-mobile-navigation/
+
+https://uxdesign.cc/an-approach-to-solve-complex-backward-navigation-in-mobile-through-user-research-45d786a83bed
+
+https://www.smashingmagazine.com/2017/04/overview-responsive-navigation-patterns/
+
+https://uxplanet.org/tabs-for-mobile-ux-design-d4cc4d9410d1
+
+https://www.nngroup.com/articles/tabs-used-right/
+
+https://www.designyourway.net/blog/inspiration/showcase-of-tab-bars-in-mobile-ui-design/
